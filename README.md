@@ -1,4 +1,4 @@
-.# Stevens LaTeX Poster Template
+# Stevens LaTeX Poster Template
 LaTeX poster template themed for Stevens Institute of Technology with baposter
 
 Check out the preview [here](https://keevindoherty.github.io/stevens_latex_poster/poster_portrait.pdf).
